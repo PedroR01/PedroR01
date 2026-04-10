@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I´m Pedro Robinet a 23 years old passionate programmer and university student.<br>I´m currently working on some projects to challenge myself and test my knwoledges (both programming and design).<br>👨‍💻 The languages that I have most interest (to get better) and experience are C++, C# and JavaScript<br>💬 Please, be free to ask me anything you like.<br><br>
+👋 Hey, I´m Pedro Robinet a 25 years old passionate programmer and university student.<br>I´m currently working on some projects to challenge myself and test my knwoledges (both programming and design).<br>👨‍💻 The languages that I have most interest (to get better) and experience are C++, C# and JavaScript<br>💬 Please, be free to ask me anything you like.<br><br>
 
 <img align="right" alt="Coder Ilustration gif" width= "400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
